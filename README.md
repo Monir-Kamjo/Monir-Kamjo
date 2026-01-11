@@ -1,5 +1,13 @@
 <!-- ================= HEADER ================= -->
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&duration=3000&pause=1000&color=00AFFF&background=000000&center=true&vCenter=true&width=600&height=90&lines=Monir+Kamjo" />
+</p>
+
+<p align="center">
+  <b>Network Support • Automation • Batch Scripting</b>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?
     font=Fira+Code
     &size=42
