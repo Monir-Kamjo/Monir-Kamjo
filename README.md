@@ -1,9 +1,13 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&duration=3000&pause=1000&color=00AFFF&background=000000&center=true&vCenter=true&width=600&height=90&lines=Monir+Kamjo" />
+  <img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&size=48&duration=3500&pause=1200&color=00AFFF&background=000000&center=true&vCenter=true&width=700&height=110&lines=Monir+Kamjo" />
 </p>
 
 <p align="center">
   <b>Network Support • Automation • Batch Scripting</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile_Views-1.2k-0A66C2?style=flat-square" /> <img src="https://img.shields.io/badge/Followers-245-0A66C2?style=flat-square" /> <img src="https://img.shields.io/badge/Public_Repos-18-0A66C2?style=flat-square" /> <img src="https://img.shields.io/badge/Automation_Scripts-32-0A66C2?style=flat-square" /> <img src="https://img.shields.io/badge/Network_Uptime-99.9%25-0A66C2?style=flat-square" />
 </p>
 
 ---
@@ -25,12 +29,11 @@ I have a strong foundation in **networking, automation, and IT support**, backed
 - VBA, Kotlin (foundational experience)  
 - Radio & wireless communication fundamentals  
 
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-
+---
 
 ## 📈 Background
 
@@ -41,6 +44,7 @@ I have a strong foundation in **networking, automation, and IT support**, backed
 ---
 
 ## 🎓 Certifications
+
 <p align="center">
   <a href="https://www.credly.com/users/amk">
     <img src="https://img.shields.io/badge/Credly-Certifications-0A66C2?style=for-the-badge&logo=credly&logoColor=white" />
@@ -50,6 +54,7 @@ I have a strong foundation in **networking, automation, and IT support**, backed
 ---
 
 ## 🤝 Connect with Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/Monir-Kamjo">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
