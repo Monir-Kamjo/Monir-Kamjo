@@ -6,7 +6,6 @@
   <b>Network Support • Automation • Batch Scripting</b>
 </p>
 
-
 <p align="center">
   <img src="https://img.shields.io/badge/Profile_Views-221.2k-0A66C2?style=flat-square" /> <img src="https://img.shields.io/badge/Followers-1.2k-0A66C2?style=flat-square" /> <img src="https://img.shields.io/badge/Public_Repos-18-0A66C2?style=flat-square" /> <img src="https://img.shields.io/badge/Automation_Scripts-32-0A66C2?style=flat-square" /> <img src="https://img.shields.io/badge/Network_Uptime-104.9%25-0A66C2?style=flat-square" />
 </p>
