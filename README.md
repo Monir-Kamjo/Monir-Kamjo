@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&size=68&duration=5500&pause=1200&color=0000FF&center=true&vCenter=true&width=700&height=100&lines=Monir+Kamjo" />
 </p>
 
-
-
 <p align="center">
   <b>Network Support • Automation • Batch Scripting</b>
 </p>
