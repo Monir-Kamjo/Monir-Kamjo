@@ -1,9 +1,15 @@
+<!-- ======================= HEADER ANIMATION ======================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&size=68&duration=5500&pause=1200&color=0000FF&center=true&vCenter=true&width=700&height=100&lines=Monir+Kamjo" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43,100:2c5364&height=220&section=header&text=Monir%20Kamjo&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Network%20Automation%20Engineer&descAlignY=55&descAlign=50"/>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Initializing+Infrastructure...;Loading+Automation+Modules...;Batch+%26+Python+Scripting+Active;CCNA-Level+Networking;Optimizing+Systems+for+Efficiency" />
 </p>
 
-<p align="center">
-  <b>Network Support • Automation • Batch Scripting</b>
+
+
+
+
 </p>
 
 <p align="center">
